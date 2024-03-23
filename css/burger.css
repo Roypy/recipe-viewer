@@ -1,5 +1,6 @@
-body {
-    background-color: black;
+.backgroundColor {
+    background-color: rgb(44, 11, 123);
+    color: white;
 }
 
 .images {
