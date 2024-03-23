@@ -2,7 +2,6 @@ body {
     background-color: black;
 }
 
-
 .images {
     height: 250px;
     margin-left: 2%;
@@ -12,4 +11,21 @@ body {
     line-height: 2em;
     text-align: left;
     word-wrap: normal;
+}
+
+#homeButtonParent {
+    text-align: center;
+}
+
+#homeButton {
+    padding: 5px 15px 5px 15px;
+    background-color: cornflowerblue;
+    border-width: 0px;
+    border-radius: 5px;
+}
+
+
+#homeButton:hover{
+    background-color:crimson;
+    cursor: pointer;
 }
